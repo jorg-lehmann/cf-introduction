@@ -1,0 +1,6 @@
+---
+applications:
+-  name: HelloCGI
+   host: hellocgi_joerg
+   memory: 64M
+   disc_quota: 64M
